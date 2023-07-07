@@ -1,3 +1,17 @@
+<?php
+class Teacher
+{
+    private string $name;
+    private string $firstname;
+    private array $subject;
+    private string $schoolName;
+
+    // public function __construct($name, $firstname, $)
+    // {
+        
+    // }
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 
